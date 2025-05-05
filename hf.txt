@@ -1,0 +1,4 @@
+JPEG Pleno Database: 8i Voxelized Full Bodies (8iVFB v2) - A Dynamic Voxelized Point Cloud Dataset
+
+Uploaded to HF for ease of access here:
+https://huggingface.co/datasets/Shivamkak/voxelized_pc_data
